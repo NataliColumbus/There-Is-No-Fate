@@ -1,0 +1,166 @@
+    1  pwd
+    2  ls-1a
+    3  mkdir group33
+    4  cd gr
+    5  cd group33
+    6  ls-la
+    7  history
+    8  clear
+    9  touch 1.txt
+   10  cat>1/txt
+   11  cat >> 1.txt
+   12  i
+   13  pwd
+   14  ls-l
+   15  git clone https://github.com/igroglaz/angband.git
+   16  git status
+   17  cd angbang/
+   18  git status
+   19  git branch test
+   20  git checkout test
+   21  git status
+   22  pwd
+   23  pwd
+   24  ls
+   25  ls-l
+   26  ls
+   27  ls -l
+   28  ls-a
+   29  ls -a
+   30  cd ..
+   31  cd ..Git Busch cour/
+   32  mkdir Groupe_33
+   33  cd Groupe_33
+   34  mkdir dir_1 dir_2 dir_3 dir_4 dir_5
+   35  mkdir dir_1/dir_1_1
+   36  ls -la
+   37  ls -la dir_1
+   38  rm dir_2
+   39  rm: dir_2
+   40  rm -r dir_2
+   41  mkdir dir_2
+   42  ls -la
+   43  clear
+   44  history
+   45  clear
+   46  touch 1.txt
+   47  ls -la
+   48  cat > 2.txt
+   49  ls -la
+   50  cat 2.txt
+   51  cut >> 2.txt
+   52  cat >> 2.txt
+   53  cat 2.txt
+   54  cat 2.txt
+   55  cat >>2.txt
+   56  cat 2.txt
+   57  cat >> 2.txt
+   58  cat 2.txt
+   59  cat >> 2.txt
+   60  cat 2.txt
+   61  cat > 2.txt
+   62  cat 2.txt
+   63  rm 1.txt
+   64  touch 1.txt
+   65  clear
+   66  cp 2.txt dir_1/2.txt
+   67  ls -la
+   68  ls -la dir_1
+   69  cat dir_1/2.txt
+   70  mv 2.txt dir_2/2.txt
+   71  cd dir_2
+   72  cd dir_2
+   73  mkdir dir_2
+   74  cp 2.txt dir_2/2.txt
+   75  cd dir_2
+   76  mv 2.txt 7.txt
+   77  ls -la
+   78  mv 2.txt 7.txt
+   79  clear
+   80  cd dir_2
+   81  vim 7.txt
+   82  vim 7.txt
+   83  ls -la
+   84  cat 7.txt
+   85  mv 7.txt 7.json
+   86  explorer .
+   87  vim 7.json
+   88  vim 7.json
+   89  mv 7.txt 7.json
+   90  cd dir_1 ; mkdir dir_01
+   91  cd dir_1 ; mkdir dir_001 dir_002 dir_003; cd dir_003; touch 01.txt 02.txt 03.txt 04.json 05.json; mkdir dir_004 dir_005 dir_006;mv 03.txt 04.json dir_005/03.txt 04.json
+   92  cd dir_1 ; mkdir dir_001 dir_002 dir_003; cd dir_003; touch 01.txt 02.txt 03.txt 04.json 05.json; mkdir dir_004 dir_005 dir_006;mv 03.txt 04.json dir_004 / 03.txt 04.json
+   93  cd dir_1 ; mkdir dir_001 dir_002 dir_003; cd dir_003; touch 01.txt 02.txt 03.txt 04.json 05.json; mkdir dir_004 dir_005 dir_006;mv 03.txt  dir_004 / 03.txt
+   94  cd dir_4
+   95  cd dir_4
+   96  pwd
+   97  explore
+   98  explorer
+   99  cd dir_003
+  100  curl
+  101  git
+  102  pwd
+  103  pwd
+  104  clear
+  105  pwd
+  106  cd c:/Users/nibir/git
+  107  git config--list--global
+  108  git status
+  109  git status
+  110  cat non.txt
+  111  git fetch
+  112  git status
+  113  git pull
+  114  git status
+  115  cat non.txt
+  116  git log
+  117  pwd
+  118  pwd
+  119  ls
+  120  ls -l
+  121  ls -a
+  122  mkdir group_33
+  123  cd group_33
+  124  mkdir dir_1 dir_2 dir_3
+  125  mkdir dir_1/ dir_1_1
+  126  mkdir dir_1/dir_1_1
+  127  ls -la
+  128  ls -la/dir_1
+  129  ls -la dir_1
+  130  rm -r dir_2
+  131  ls -la
+  132  mkdir dir_2
+  133  ls -la
+  134  touch 1.txt
+  135  ls -la
+  136  touch 1.json
+  137  ls -la
+  138  cat > 2.txt
+  139  ls -la
+  140  cat 2.txt
+  141  cat >> 2.txt
+  142  ls-la
+  143  ls -la
+  144  cat >> 2.txt
+  145  ls -la
+  146  cat 2.txt
+  147  cp 2.txt dir_1/2.txt
+  148  ls -ls dir_1
+  149  ls 2.txt
+  150  mv 2.txt 7.txt
+  151  ls -ls
+  152  ls -la
+  153  cd ..
+  154  cd group_33
+  155  cd dir_2
+  156  vim 7.txt
+  157  ls -la
+  158  cat 7.txt
+  159  git status
+  160  git add 7.txt
+  161  explorer
+  162  mv 7.txt 7.json
+  163  ls -la
+  164  vim 7.json
+  165  history
+  166  history >> hist.txt
