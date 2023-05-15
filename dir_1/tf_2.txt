@@ -1,6 +1,0 @@
-the first 1
-second 2
-the third 3
-the most Bard first 1
-the most Bard second 2
-the most Bard third 3
