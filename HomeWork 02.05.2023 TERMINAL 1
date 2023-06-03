@@ -8,7 +8,7 @@
 
 5. Зайти в любую папку ****    cd One_1
 
-6. Cоздать 5 файлов  ****3 txt, 2 json=== touch list1.txt list2.txt                           list3.txt script1.json script2.json
+6. Cоздать 5 файлов  ****3 txt, 2 json=== touch list1.txt list2.txt list3.txt script1.json script2.json
 
 7.Создать три папки  ****       mkdir Two_1 Two_2 Two_3
 
@@ -22,9 +22,9 @@
 
 12. Выйти из папки на уровень выше ****    cd ..
 
-13. Переместить любые два созданных файла в другую папку                 ****          mv script1.json script2.json Two_1
+13. Переместить любые два созданных файла в другую папку****  mv script1.json script2.json Two_1
 
-14. Скопировать любые два файла которые вы создали в любую другую папку ****        cp One_1 / list2.txt list3.txt / Two_2
+14. Скопировать любые два файла которые вы создали в любую другую папку **** cp One_1 / list2.txt list3.txt / Two_2
 
 15. Найти файл по имени ****  find -name "list1.text"
 
@@ -38,3 +38,40 @@
 
 20. Вывести дату и время                                                      date
 
+Задание *
+1) Отправить http запрос на сервер.  
+http://162.55.220.72:5005/terminal-hw-request  ******* curl http://162.55.220.72:5005 
+не надо добавлять ендпоинт.
+
+
+2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+Писать будем  в Нано.   nano script.sh
+Это откроет текстовый редактор, в котором вводим текст скрипта. После того как ввели текст, сохраняем 
+его Ctrl+X.Затем будет предложено сохранить файл. Нажимаем Y , а затем Enter. 
+Чтобы запустить скрипт используем следующую команду.
+   bash script.sh
+
+    Cам скрипт.
+
+#!/bin/bash
+
+mkdir Linux6
+
+cd Linux6
+
+mkdir folder1 folder2 folder3
+
+cd folder1
+
+touch file1.txt file2.txt file3.txt file4.json file5.json
+
+mkdir folderA folderB folderC
+
+ls
+
+mv file1.txt file2.txt ./
+
+cd ..
+cd ..
+
+ls Linux6
