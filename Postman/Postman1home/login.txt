@@ -1,0 +1,5 @@
+var jsonData = pm.response.json();
+var resp_token = jsonData
+console.log(resp_token)
+
+pm.environment.set("token", resp_token);
