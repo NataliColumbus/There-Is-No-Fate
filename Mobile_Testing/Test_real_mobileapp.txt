@@ -1,0 +1,25 @@
+Mobile
+HW_1
+1) Чеклист особенностей мобильного тестирования
+2) Чеклист проверки мобильного приложения
+
+
+************************
+Mobile testing
+1) iOS guidelies
+2) Androiid guidelies
+3) app Activity
+4) https://developer.android.com/docs/quality-guidelines/core-app-quality
+5) Чеклист особенностей мобильного тестирования
+6) Чеклист проверки мобильного приложения;
+7) AppStore review
+8) Google play review
+9) Android Studio
+10) xCode
+11) ADB
+12) Тесты реконнектов
+13) Тесты установки
+14) Тесты прерываний
+15) Тесты ориентаций
+16) Тесты подписок и оплат.
+17) Social login

@@ -1,0 +1,264 @@
+{
+	"id": "16634f96-91fe-4b0d-a4b2-82b4e3078b6e",
+	"name": "Postman33_group",
+	"timestamp": "2023-03-04T21:07:24.220Z",
+	"collection_id": "25083827-48f2fec4-4960-41b9-ab38-0f5a3bb8f7d4",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-04T21:07:18.936Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "386fcbd1-64ec-4934-be0f-3d27574bc3a3",
+			"name": "hi",
+			"url": "http://162.55.220.72:5005",
+			"time": 309,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				309
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "557c3397-bec7-4c0e-88d6-3f60f90881b1",
+			"name": "/first",
+			"url": "http://162.55.220.72:5005/first",
+			"time": 291,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				291
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d5842ccb-fcf6-4dd1-8ba2-3278626fdc68",
+			"name": "get_method",
+			"url": "http://162.55.220.72:5005/get_method",
+			"time": 291,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				291
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "5fc6cb28-36c5-43be-9071-383ccb82837d",
+			"name": "user_info_1",
+			"url": "http://162.55.220.72:5005/user_info_1",
+			"time": 302,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				302
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "69ac30d2-eed4-4501-beac-841e11448503",
+			"name": "/object_info_1",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Vladyslav&age=12&weight=50",
+			"time": 302,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				302
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "936191f8-7d85-4fe4-a9ff-eb2f0674eba4",
+			"name": "/object_info_2",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Maksim&age=32&salary=2500",
+			"time": 284,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				284
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "6bc61b8a-c4f8-47fd-9c55-28dc8ba74608",
+			"name": "/object_info_4",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Andii&age=43&salary=3000",
+			"time": 299,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				299
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fd83ab12-7d16-4fc3-8817-75443a07e17f",
+			"name": "/object_info_3",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Katerina&age=28&salary=2000",
+			"time": 292,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				292
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2d57a1e1-027b-4837-9a4d-ca8148653da8",
+			"name": "user_info_2",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 308,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				308
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ab0b93f5-3254-420e-83b8-301bb40a0444",
+			"name": "user_info_3",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 307,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				307
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "413dbf90-ed64-4107-b808-31c6a7647f61",
+			"name": "get_method",
+			"url": "http://162.55.220.72:5005/get_method?name=Nataliia&age=47",
+			"time": 294,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				294
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 3279,
+	"collection": {
+		"requests": [
+			{
+				"id": "386fcbd1-64ec-4934-be0f-3d27574bc3a3",
+				"method": "GET"
+			},
+			{
+				"id": "557c3397-bec7-4c0e-88d6-3f60f90881b1",
+				"method": "GET"
+			},
+			{
+				"id": "d5842ccb-fcf6-4dd1-8ba2-3278626fdc68",
+				"method": "GET"
+			},
+			{
+				"id": "5fc6cb28-36c5-43be-9071-383ccb82837d",
+				"method": "POST"
+			},
+			{
+				"id": "69ac30d2-eed4-4501-beac-841e11448503",
+				"method": "GET"
+			},
+			{
+				"id": "936191f8-7d85-4fe4-a9ff-eb2f0674eba4",
+				"method": "GET"
+			},
+			{
+				"id": "6bc61b8a-c4f8-47fd-9c55-28dc8ba74608",
+				"method": "GET"
+			},
+			{
+				"id": "fd83ab12-7d16-4fc3-8817-75443a07e17f",
+				"method": "GET"
+			},
+			{
+				"id": "2d57a1e1-027b-4837-9a4d-ca8148653da8",
+				"method": "POST"
+			},
+			{
+				"id": "ab0b93f5-3254-420e-83b8-301bb40a0444",
+				"method": "POST"
+			},
+			{
+				"id": "413dbf90-ed64-4107-b808-31c6a7647f61",
+				"method": "GET"
+			}
+		]
+	}
+}

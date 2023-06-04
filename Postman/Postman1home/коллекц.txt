@@ -1,0 +1,17 @@
+    var jsonData = pm.response.json();
+
+    var resp_age = jsonData.age
+
+var req = request.data 
+
+var req_age = +req.age
+
+console.log("Resp_age = "  +resp_age)
+ 
+ console.log("Req_age = " + req_age)
+
+
+pm.test("Req_Resp_AGE_check", function () {
+    pm.expect(resp_age).to.eql (req_age);
+});
+

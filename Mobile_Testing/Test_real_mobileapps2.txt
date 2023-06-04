@@ -1,0 +1,12 @@
+Moble testing Reminder_Android_app
+HW_2
+
+Rreminder- https://github.com/vadimksendzoff/android_reminder.git
+
+1) Собрать приложение на эмуляторе
+2) Собрать приложение на реальном телефоне
+3) Собрать .apk файл и установить на реальном телефоне.
+4) Сделать Adhoc тестирование приложения Reminder
+5) Создать Smoke чеклист для проверки приложения Reminder
+6) Создать Rergression чеклист для прооверки приложения Reminder
+7) Создать End-to-End сценарии тестирования приложения Reminder

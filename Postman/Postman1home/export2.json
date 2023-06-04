@@ -1,0 +1,339 @@
+{
+	"id": "a74e31f0-6d00-45de-ae0f-535790c3d422",
+	"name": "Postman33_group",
+	"timestamp": "2023-03-10T21:29:41.303Z",
+	"collection_id": "25083827-48f2fec4-4960-41b9-ab38-0f5a3bb8f7d4",
+	"folder_id": 0,
+	"environment_id": "25083827-2ca12b20-09a6-4f20-bd67-bbbb782f7943",
+	"totalPass": 1,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-10T21:29:34.983Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "386fcbd1-64ec-4934-be0f-3d27574bc3a3",
+			"name": "hi",
+			"url": "http://162.55.220.72:5005",
+			"time": 293,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				293
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "557c3397-bec7-4c0e-88d6-3f60f90881b1",
+			"name": "/first",
+			"url": "http://162.55.220.72:5005/first",
+			"time": 435,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				435
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d5842ccb-fcf6-4dd1-8ba2-3278626fdc68",
+			"name": "get_method",
+			"url": "http://162.55.220.72:5005/get_method",
+			"time": 331,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				331
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "5fc6cb28-36c5-43be-9071-383ccb82837d",
+			"name": "user_info_1",
+			"url": "http://162.55.220.72:5005/user_info_1",
+			"time": 310,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				310
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "69ac30d2-eed4-4501-beac-841e11448503",
+			"name": "/object_info_1",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Vladyslav&age=12&weight=50",
+			"time": 348,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				348
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "936191f8-7d85-4fe4-a9ff-eb2f0674eba4",
+			"name": "/object_info_2",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Maksim&age=32&salary=2500",
+			"time": 322,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				322
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "6bc61b8a-c4f8-47fd-9c55-28dc8ba74608",
+			"name": "/object_info_4",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Andii&age=43&salary=3000",
+			"time": 319,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				319
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fd83ab12-7d16-4fc3-8817-75443a07e17f",
+			"name": "/object_info_3",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Katerina&age=28&salary=2000",
+			"time": 313,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				313
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2d57a1e1-027b-4837-9a4d-ca8148653da8",
+			"name": "user_info_2",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 311,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				311
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ab0b93f5-3254-420e-83b8-301bb40a0444",
+			"name": "user_info_3",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 345,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				345
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e71366f8-7ec1-4fe8-a9b4-a08c74c57021",
+			"name": "user_info_3 Copy",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 319,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				319
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "413dbf90-ed64-4107-b808-31c6a7647f61",
+			"name": "get_method",
+			"url": "http://162.55.220.72:5005/get_method?name=Nataliia&age=47",
+			"time": 331,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				331
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "2d95fbc5-e4b9-403c-89ba-5316cd59f752",
+			"name": "new_data",
+			"url": "http://162.55.220.72:5005/new_data",
+			"time": 352,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Req_Resp_AGE_check": true
+			},
+			"testPassFailCounts": {
+				"Req_Resp_AGE_check": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				352
+			],
+			"allTests": [
+				{
+					"Req_Resp_AGE_check": true
+				}
+			]
+		},
+		{
+			"id": "a9266e2b-7ad2-4a7b-89b1-2751a5b171a7",
+			"name": "/login",
+			"url": "http://162.55.220.72:5005/login",
+			"time": 343,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				343
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 4672,
+	"collection": {
+		"requests": [
+			{
+				"id": "386fcbd1-64ec-4934-be0f-3d27574bc3a3",
+				"method": "GET"
+			},
+			{
+				"id": "557c3397-bec7-4c0e-88d6-3f60f90881b1",
+				"method": "GET"
+			},
+			{
+				"id": "d5842ccb-fcf6-4dd1-8ba2-3278626fdc68",
+				"method": "GET"
+			},
+			{
+				"id": "5fc6cb28-36c5-43be-9071-383ccb82837d",
+				"method": "POST"
+			},
+			{
+				"id": "69ac30d2-eed4-4501-beac-841e11448503",
+				"method": "GET"
+			},
+			{
+				"id": "936191f8-7d85-4fe4-a9ff-eb2f0674eba4",
+				"method": "GET"
+			},
+			{
+				"id": "6bc61b8a-c4f8-47fd-9c55-28dc8ba74608",
+				"method": "GET"
+			},
+			{
+				"id": "fd83ab12-7d16-4fc3-8817-75443a07e17f",
+				"method": "GET"
+			},
+			{
+				"id": "2d57a1e1-027b-4837-9a4d-ca8148653da8",
+				"method": "POST"
+			},
+			{
+				"id": "ab0b93f5-3254-420e-83b8-301bb40a0444",
+				"method": "POST"
+			},
+			{
+				"id": "e71366f8-7ec1-4fe8-a9b4-a08c74c57021",
+				"method": "POST"
+			},
+			{
+				"id": "413dbf90-ed64-4107-b808-31c6a7647f61",
+				"method": "GET"
+			},
+			{
+				"id": "2d95fbc5-e4b9-403c-89ba-5316cd59f752",
+				"method": "POST"
+			},
+			{
+				"id": "a9266e2b-7ad2-4a7b-89b1-2751a5b171a7",
+				"method": "POST"
+			}
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"id": "aa0776a2-a146-4812-8b0c-2fef8dd6b22d",
+	"name": "Homework1",
+	"timestamp": "2023-06-03T23:46:39.713Z",
+	"collection_id": "25083827-52142933-3229-45a7-b654-277e17325bc6",
+	"folder_id": 0,
+	"environment_id": "25083827-2ca12b20-09a6-4f20-bd67-bbbb782f7943",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-06-03T23:46:34.221Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "39dff528-155b-42bb-8159-52423f1fcbf0",
+			"name": "get_method",
+			"url": "http://162.55.220.72:5005/get_method?name=Nataliia&age=47",
+			"time": 308,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				308
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "daf23e36-b02c-433b-af2c-e1032869857f",
+			"name": "user_info_3",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 300,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				300
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "a59bfaea-4269-4efe-942c-36f58912966a",
+			"name": "object_info_1",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Vladyslav&age=12&weight=50",
+			"time": 281,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				281
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "28535d82-d852-4492-9ce9-563f5caf51c8",
+			"name": "object_info_2",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Juliia&age=30&salary=2300",
+			"time": 289,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				289
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "91b8292a-4bb5-4ce9-b41d-9ad935865b4c",
+			"name": "object_info_3",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Nataliia&age=47&salary=1500",
+			"time": 285,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				285
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9ed012e3-d540-4310-abbf-8bf3049ac3d3",
+			"name": "object_info_4",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Juliia&age=30&salary=2300",
+			"time": 279,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				279
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "121ba920-6e90-4140-81ec-2856dfb40f5c",
+			"name": "user_info_2",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 297,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				297
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2039,
+	"collection": {
+		"requests": [
+			{
+				"id": "39dff528-155b-42bb-8159-52423f1fcbf0",
+				"method": "GET"
+			},
+			{
+				"id": "daf23e36-b02c-433b-af2c-e1032869857f",
+				"method": "POST"
+			},
+			{
+				"id": "a59bfaea-4269-4efe-942c-36f58912966a",
+				"method": "GET"
+			},
+			{
+				"id": "28535d82-d852-4492-9ce9-563f5caf51c8",
+				"method": "GET"
+			},
+			{
+				"id": "91b8292a-4bb5-4ce9-b41d-9ad935865b4c",
+				"method": "GET"
+			},
+			{
+				"id": "9ed012e3-d540-4310-abbf-8bf3049ac3d3",
+				"method": "GET"
+			},
+			{
+				"id": "121ba920-6e90-4140-81ec-2856dfb40f5c",
+				"method": "POST"
+			}
+		]
+	}
+}
